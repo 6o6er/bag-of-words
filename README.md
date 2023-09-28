@@ -1,3 +1,7 @@
+#Количество копирований - 105
+#Количество веток - 1
+#Количество разработчиков - 1
+#Регулярность использования - 9
 # bag-of-words
 ![alt text](docs/images/bog.png)
 Python Implementation of Bag of Words for Image Recognition using OpenCV and
